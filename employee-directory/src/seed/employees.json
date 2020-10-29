@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1, 
+        "firstName": "Ricky",
+        "lastName": "Bobby",
+        "age": 34,
+        "department": "Software Development",
+        "position": "Front End Engineer"
+    },
+    {
+        "id": 2, 
+        "firstName": "Susi",
+        "lastName": "Leonard",
+        "age": 40,
+        "department": "Software Development",
+        "position": "Back End Engineer"
+    },
+    {
+        "id": 3, 
+        "firstName": "Sam",
+        "lastName": "Rock",
+        "age": 53,
+        "department": "Software Development",
+        "position": "Project Manager"
+    },
+    {
+        "id": 4, 
+        "firstName": "Liz",
+        "lastName": "Miller",
+        "age": 41,
+        "department": "Administration",
+        "position": "CEO"
+    },
+    {
+        "id": 5, 
+        "firstName": "Portman",
+        "lastName": "O'Connor",
+        "age":46,
+        "department": "Administration",
+        "position": "CFO"
+    }
+]
